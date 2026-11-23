@@ -1,0 +1,8 @@
+.venv/
+.tmp/
+__pycache__/
+.pytest_cache/
+pytest-cache-files-*/
+build/
+dist/
+*.spec
